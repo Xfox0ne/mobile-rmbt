@@ -7,3 +7,9 @@ My project aims to make the existing software more portable while still being co
 https://www.netztest.at/doc/
 
 Disclaimer: this is not an official repository of the RTR. I am not affiliated with RTR in any way. I only do stuff with their code.
+
+# Dependencies
+[...]
+
+# Usage
+[...]
